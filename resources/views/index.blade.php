@@ -11,7 +11,6 @@
 </head>
 <body>
     <div id="app"></div>
-<p>asdfasdfasdf</p>
 
 <script src="./js/app.js"></script>
 </body>
